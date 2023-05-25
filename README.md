@@ -20,7 +20,8 @@ contoh
 
 Contoh:
 
-```a. Input: “palindrom”, “ind”
+```
+a. Input: “palindrom”, “ind”
 Output : 1
 
 b. Input: “abakadabra”, “ab”
