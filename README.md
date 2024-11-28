@@ -58,8 +58,3 @@ c. Input: “MasyaAllah”
 Output: [“A”:1, “a”:3, “h”:1,”l”:2, “M”:1, “s”:1, “y”:1]
 ```
 
-**Cara Mengumpulkan Hasil :**
-
-Silakan buat 1 repository terbuka di platform apapun Github/Gitlab/Bitbucket atau
-
-apapun platformnya, silakan lampirkan repository berisi jawaban via email
